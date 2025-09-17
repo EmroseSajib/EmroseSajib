@@ -1,8 +1,20 @@
-🌱  I’m currently learning MERN
-🌱  All of my projects are available at https://github.com/EmroseSajib
-🌱  How to reach me emrosesajib@gmail.com
+# Emrose Ahamed Sajib
 
-<!---
-EmroseSajib/EmroseSajib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a frontend-focused full-stack developer with hands-on experience building scalable web applications using React.js, Next.js, Redux, Tailwind CSS, and TypeScript/JavaScript.  
+
+### Experience
+- Developed **Salesforce systems, SaaS platforms, Payroll & Inventory Management software** at Suffix IT  
+- Worked on enterprise and government projects: **Abul Khair Group, Meghna Group, Rangpur Dairy Ltd., WASA, BIWTA, Bangladesh Customs, BEPZA**  
+- Built a **full-featured e-commerce platform for Hyundai Bangladesh**  
+- Contributed to **IoT projects** for real-time data visualization (**Paxar Bangladesh Limited, Styrax Fashions Limited**)  
+- Experienced with **Node.js and MongoDB** for backend development  
+
+### Tech Stack
+**Frontend:** React.js, Next.js, Redux, Tailwind CSS, Material UI  
+**Backend:** Node.js, Express.js, MongoDB  
+**Others:** Socket.io, REST API, Git/GitHub  
+
+### Contact
+- Email: emrosesajib@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/emrosesajib
+- Mobile : +880-16797-622-06
